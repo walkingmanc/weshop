@@ -1,0 +1,108 @@
+[ 2015-12-26T10:57:58+08:00 ] ::1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000279s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002447s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000709s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002003s ]
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 11 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 12 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 13 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 17 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 20 行.
+NOTIC: [8] Undefined index: update D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005060s ]
+
+[ 2015-12-26T10:58:27+08:00 ] ::1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001544s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000620s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001680s ]
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 11 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 12 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 13 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 17 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 20 行.
+NOTIC: [8] Undefined index: update D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002869s ]
+
+[ 2015-12-26T10:59:34+08:00 ] ::1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000463s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001748s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002315s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000687s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001735s ]
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 11 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 12 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 13 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 17 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 20 行.
+NOTIC: [8] Undefined index: update D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002188s ]
+
+[ 2015-12-26T11:01:45+08:00 ] ::1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001730s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002092s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000565s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001565s ]
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 11 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 12 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 13 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 17 行.
+NOTIC: [8] Use of undefined constant SITE_VERSION - assumed 'SITE_VERSION' D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 20 行.
+NOTIC: [8] Undefined index: update D:\WWW\Runtime\Cache\Install\c6bbce5b1f1dcf027c8ceb5cf5141b65.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002080s ]
+

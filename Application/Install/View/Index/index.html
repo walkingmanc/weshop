@@ -1,0 +1,24 @@
+<extend name="Public/base"/>
+
+<block name="header">
+    <li class="active"><a href="javascript:;"><span>1</span>安装协议</a></li>
+    <li><a href="javascript:;"><span>2</span>环境检测</a></li>
+    <li><a href="javascript:;"><span>3</span>创建数据库</a></li>
+    <li><a href="javascript:;"><span>4</span><eq name="Think.session.update" value="1">升级<else/>安装</eq></a></li>
+    <li><a href="javascript:;"><span>5</span>完成</a></li>
+</block>
+
+<block name="body">
+	<div class="notice">
+    <h1>Weishop V1.0 安装协议</h1>
+    <p>版权所有 (c) 2015，</p>
+
+    
+</div>
+</block>
+
+<block name="footer">
+    <a class="btn btn-primary btn-large" href="{:U('Install/step1')}">同意安装协议</a>
+    &nbsp;&nbsp;&nbsp;
+    <a class="btn btn-large" href="http://www.WeiPHP.cn">不同意</a>
+</block>

@@ -1,0 +1,1 @@
+a:3:{i:0;s:3:"uid";i:1;s:8:"group_id";s:5:"_type";a:2:{s:3:"uid";s:7:"int(10)";s:8:"group_id";s:21:"mediumint(8) unsigned";}}

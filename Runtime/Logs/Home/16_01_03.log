@@ -1,0 +1,9 @@
+[ 2016-01-03T10:34:17+08:00 ] 127.0.0.1 /index.php?s=/home/WeixinMessage/lists.html&mdm=15|44
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shark.wp_weixin_message' doesn't exist
+
+[ 2016-01-03T11:12:05+08:00 ] 127.0.0.1 /index.php?s=/addon/Vote/Vote/lists.html&mdm=17
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shark.ws_vote' doesn't exist
+
+[ 2016-01-03T12:30:41+08:00 ] 127.0.0.1 /index.php?s=/addon/Vote/Vote/lists.html&mdm=17
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shark.ws_vote' doesn't exist
+

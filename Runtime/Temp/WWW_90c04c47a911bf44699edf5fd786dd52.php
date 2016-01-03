@@ -1,0 +1,3 @@
+<?php
+//000000000000a:20:{s:2:"id";s:1:"1";s:3:"uid";s:1:"1";s:11:"public_name";s:12:"云趣网络";s:9:"public_id";s:15:"gh_6d1c43af8f5b";s:6:"wechat";s:9:"yunqu1234";s:13:"interface_url";N;s:12:"headface_url";N;s:4:"area";N;s:12:"addon_config";s:205:"{"Wecome":{"type":"1","description":"\u6b22\u8fce\u5173\u6ce8\u201c\u4e91\u8da3\u7f51\u7edc\u201d\uff0c\u8fd9\u91cc\u662f\u4e00\u4e2a\u5fae\u4fe1\u5546\u57ce\u5f00\u53d1\u793e\u533a\u3002","appmsg_id":""}}";s:12:"addon_status";N;s:5:"token";s:15:"gh_6d1c43af8f5b";s:6:"is_use";s:1:"0";s:4:"type";s:1:"3";s:5:"appid";s:18:"wx3ff9494e604b945c";s:6:"secret";s:32:"9d907ce54dee45a3c8c5dfb6eefcfa89";s:8:"group_id";s:1:"0";s:14:"encodingaeskey";s:0:"";s:8:"tips_url";N;s:6:"domain";N;s:7:"is_bind";s:1:"0";}
+?>
